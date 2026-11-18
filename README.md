@@ -93,5 +93,3 @@ npm --prefix data-agent-fronted run build
 | `data-agent-fronted/` | Vue 问答界面 |
 | `conf/`、`docker/` | 配置、依赖容器与教学数据 |
 | `tests/`、`docs/` | 测试、开发说明与演示截图 |
-
-本项目以尚硅谷自然语言问数课程为基础，包含后续的接口健壮性、可观测性和前端展示改进。第三方模型及插件请遵循各自上游条款。
