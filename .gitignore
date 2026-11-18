@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local integration reports may contain business query results.
+.local/
+.idea/
+*.log
+.env
+.env.*
+conf/app_config.local.yaml
+docker/embedding/bge-large-zh-v1.5/
+docker/elasticsearch/plugins/*.zip
+data-agent.zip
+data-agent/
+handoff.md
